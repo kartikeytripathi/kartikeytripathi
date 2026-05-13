@@ -13,6 +13,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=AWS+Support+Engineer+%7C+RDS+%26+MySQL+Specialist;EKS+%2F+Kubernetes+Enthusiast;CKA+Certification+in+Progress;Transitioning+to+DevOps+Engineering)](https://git.io/typing-svg)
 
+🌐 **[kartikeytripathi.in](https://www.kartikeytripathi.in/)**
+
 </div>
 
 ---
@@ -25,6 +27,7 @@ alias       : LordKazeKage
 role        : AWS Support Engineer — Containers Team
 focus       : Kubernetes • EKS • CI/CD • Infrastructure as Code
 currently   : CKA Certification Track + AWS Solutions Architect Professional
+website     : https://www.kartikeytripathi.in/
 interests   : Netflix, Video Games, Breaking Production (in a lab, obviously)
 ```
 
@@ -86,6 +89,7 @@ interests   : Netflix, Video Games, Breaking Production (in a lab, obviously)
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-00FF41?style=for-the-badge&logo=firefox&logoColor=black)](https://www.kartikeytripathi.in/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartikeytripathi/)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kartikeytripathi)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kartikey.tripathi.37@gmail.com)
