@@ -9,9 +9,9 @@
 ╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚═╝░░░╚═╝░░╚═╝╚═╝░░╚═╝╚══════╝░░░╚═╝░░░
 ```
 
-### `> kartikeytripathi` &nbsp;|&nbsp; AWS Support Engineer → DevOps Engineer
+### `> kartikeytripathi` &nbsp;|&nbsp; AWS Cloud Engineer → DevOps Engineer
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=AWS+Support+Engineer+%7C+RDS+%26+MySQL+Specialist;EKS+%2F+Kubernetes+Enthusiast;CKA+Certification+in+Progress;Transitioning+to+DevOps+Engineering)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=AWS+Cloud+Engineer+%7C+RDS+%26+MySQL+Specialist;EKS+%2F+Kubernetes+Enthusiast;CKA+Certification+in+Progress;Transitioning+to+DevOps+Engineering)](https://git.io/typing-svg)
 
 🌐 **[kartikeytripathi.in](https://www.kartikeytripathi.in/)**
 
@@ -24,7 +24,7 @@
 ```yaml
 name        : Kartikey Tripathi
 alias       : LordKazeKage
-role        : AWS Support Engineer — Containers Team
+role        : AWS Cloud Engineer — Containers Team
 focus       : Kubernetes • EKS • CI/CD • Infrastructure as Code
 currently   : CKA Certification Track + AWS Solutions Architect Professional
 website     : https://www.kartikeytripathi.in/
