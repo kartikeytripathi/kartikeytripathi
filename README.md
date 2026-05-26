@@ -75,11 +75,13 @@ interests   : Netflix, Video Games, Breaking Production (in a lab, obviously)
 
 <div align="center">
 
-![kartikeytripathi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kartikeytripathi&show_icons=true&theme=matrix&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9)
+<img src="https://github-readme-stats.vercel.app/api?username=kartikeytripathi&show_icons=true&theme=matrix&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" alt="kartikeytripathi's GitHub Stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kartikeytripathi&layout=compact&theme=matrix&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikeytripathi&layout=compact&theme=matrix&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9" alt="Top Languages" />
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=kartikeytripathi&theme=matrix&hide_border=true&background=0d1117&fire=00FF41&ring=00FF41&currStreakLabel=00FF41)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com/?user=kartikeytripathi&theme=matrix&hide_border=true&background=0d1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakNum=c9d1d9&currStreakLabel=00FF41&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak" />
+</a>
 
 </div>
 
@@ -92,7 +94,6 @@ interests   : Netflix, Video Games, Breaking Production (in a lab, obviously)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00FF41?style=for-the-badge&logo=firefox&logoColor=black)](https://www.kartikeytripathi.in/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartikeytripathi/)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kartikeytripathi)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kartikey.tripathi.37@gmail.com)
 
 </div>
 
