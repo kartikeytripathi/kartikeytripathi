@@ -1,0 +1,152 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 420" role="img" aria-label="Kartikey Tripathi — profile banner">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#050815"/>
+      <stop offset="50%" stop-color="#0B1026"/>
+      <stop offset="100%" stop-color="#080512"/>
+    </linearGradient>
+    <radialGradient id="nebulaA" cx="15%" cy="30%" r="45%">
+      <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0.55"/>
+      <stop offset="55%" stop-color="#8B5CF6" stop-opacity="0.10"/>
+      <stop offset="100%" stop-color="#8B5CF6" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="nebulaB" cx="85%" cy="60%" r="42%">
+      <stop offset="0%" stop-color="#E879F9" stop-opacity="0.45"/>
+      <stop offset="60%" stop-color="#E879F9" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#E879F9" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="nebulaC" cx="50%" cy="10%" r="40%">
+      <stop offset="0%" stop-color="#67E8F9" stop-opacity="0.35"/>
+      <stop offset="60%" stop-color="#67E8F9" stop-opacity="0.05"/>
+      <stop offset="100%" stop-color="#67E8F9" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="planet" cx="35%" cy="35%" r="70%">
+      <stop offset="0%" stop-color="#67E8F9"/>
+      <stop offset="45%" stop-color="#3B82F6"/>
+      <stop offset="100%" stop-color="#1E1B4B"/>
+    </radialGradient>
+    <radialGradient id="planetGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#67E8F9" stop-opacity="0.55"/>
+      <stop offset="60%" stop-color="#67E8F9" stop-opacity="0.05"/>
+      <stop offset="100%" stop-color="#67E8F9" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="1.4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <!-- Base sky + nebulae -->
+  <rect width="1600" height="420" fill="url(#sky)"/>
+  <rect width="1600" height="420" fill="url(#nebulaA)"/>
+  <rect width="1600" height="420" fill="url(#nebulaB)"/>
+  <rect width="1600" height="420" fill="url(#nebulaC)"/>
+
+  <!-- Distant faint stars -->
+  <g fill="#E8E8E8">
+    <circle cx="34" cy="60" r="0.7" opacity="0.5"/><circle cx="92" cy="120" r="0.5" opacity="0.4"/>
+    <circle cx="160" cy="40" r="0.9" opacity="0.6"/><circle cx="220" cy="200" r="0.6" opacity="0.5"/>
+    <circle cx="280" cy="90" r="0.8" opacity="0.55"/><circle cx="330" cy="250" r="0.5" opacity="0.4"/>
+    <circle cx="390" cy="60" r="0.7" opacity="0.5"/><circle cx="450" cy="160" r="1.0" opacity="0.7"/>
+    <circle cx="500" cy="20" r="0.6" opacity="0.5"/><circle cx="560" cy="310" r="0.8" opacity="0.55"/>
+    <circle cx="620" cy="220" r="0.5" opacity="0.4"/><circle cx="690" cy="70" r="0.7" opacity="0.55"/>
+    <circle cx="740" cy="340" r="0.9" opacity="0.6"/><circle cx="810" cy="190" r="0.5" opacity="0.4"/>
+    <circle cx="870" cy="60" r="0.8" opacity="0.55"/><circle cx="920" cy="280" r="0.7" opacity="0.5"/>
+    <circle cx="980" cy="130" r="1.0" opacity="0.7"/><circle cx="1050" cy="370" r="0.5" opacity="0.4"/>
+    <circle cx="1110" cy="200" r="0.7" opacity="0.55"/><circle cx="1170" cy="40" r="0.9" opacity="0.6"/>
+    <circle cx="1240" cy="300" r="0.6" opacity="0.45"/><circle cx="1300" cy="170" r="0.8" opacity="0.55"/>
+    <circle cx="1370" cy="70" r="0.5" opacity="0.4"/><circle cx="1430" cy="250" r="0.7" opacity="0.5"/>
+    <circle cx="1490" cy="120" r="0.9" opacity="0.6"/><circle cx="1550" cy="340" r="0.6" opacity="0.5"/>
+    <circle cx="60" cy="260" r="0.8" opacity="0.55"/><circle cx="130" cy="380" r="0.5" opacity="0.4"/>
+    <circle cx="220" cy="380" r="0.7" opacity="0.5"/><circle cx="320" cy="380" r="0.6" opacity="0.45"/>
+    <circle cx="420" cy="360" r="0.9" opacity="0.6"/><circle cx="540" cy="380" r="0.5" opacity="0.4"/>
+    <circle cx="640" cy="360" r="0.8" opacity="0.55"/><circle cx="750" cy="380" r="0.6" opacity="0.5"/>
+    <circle cx="860" cy="360" r="0.7" opacity="0.5"/><circle cx="1000" cy="380" r="0.5" opacity="0.4"/>
+    <circle cx="1100" cy="360" r="0.9" opacity="0.6"/><circle cx="1220" cy="380" r="0.6" opacity="0.45"/>
+    <circle cx="1340" cy="360" r="0.7" opacity="0.5"/><circle cx="1470" cy="380" r="0.8" opacity="0.55"/>
+    <circle cx="1570" cy="50" r="0.6" opacity="0.5"/><circle cx="80" cy="330" r="0.7" opacity="0.5"/>
+    <circle cx="240" cy="320" r="0.5" opacity="0.4"/><circle cx="380" cy="300" r="0.8" opacity="0.55"/>
+    <circle cx="500" cy="330" r="0.6" opacity="0.5"/><circle cx="600" cy="110" r="0.7" opacity="0.5"/>
+    <circle cx="710" cy="250" r="0.5" opacity="0.4"/><circle cx="880" cy="310" r="0.6" opacity="0.5"/>
+    <circle cx="1030" cy="50" r="0.7" opacity="0.5"/><circle cx="1150" cy="120" r="0.5" opacity="0.4"/>
+    <circle cx="1280" cy="220" r="0.8" opacity="0.55"/><circle cx="1410" cy="310" r="0.6" opacity="0.5"/>
+  </g>
+
+  <!-- Bright feature stars -->
+  <g fill="#FCD34D" filter="url(#glow)">
+    <g transform="translate(210, 80)"><circle r="1.6"/><path d="M -6 0 L 6 0 M 0 -6 L 0 6" stroke="#FCD34D" stroke-width="0.6" opacity="0.7"/></g>
+    <g transform="translate(1080, 40)"><circle r="1.3"/><path d="M -5 0 L 5 0 M 0 -5 L 0 5" stroke="#FCD34D" stroke-width="0.5" opacity="0.7"/></g>
+    <g transform="translate(540, 360)"><circle r="1.4"/><path d="M -5 0 L 5 0 M 0 -5 L 0 5" stroke="#FCD34D" stroke-width="0.5" opacity="0.7"/></g>
+    <g transform="translate(800, 30)"><circle r="1.2"/><path d="M -4 0 L 4 0 M 0 -4 L 0 4" stroke="#FCD34D" stroke-width="0.5" opacity="0.6"/></g>
+  </g>
+
+  <!-- Constellation of skills (top-right area) -->
+  <g stroke="#C4B5FD" stroke-opacity="0.35" stroke-width="0.8" fill="none">
+    <path d="M 1050 90 L 1120 130 L 1180 100 L 1250 140 L 1320 110"/>
+  </g>
+  <g fill="#C4B5FD">
+    <circle cx="1050" cy="90" r="2"/>
+    <circle cx="1120" cy="130" r="2.5"/>
+    <circle cx="1180" cy="100" r="2"/>
+    <circle cx="1250" cy="140" r="2.5"/>
+    <circle cx="1320" cy="110" r="2"/>
+  </g>
+
+  <!-- Orbit rings + planet on the right -->
+  <g transform="translate(1330, 240)" fill="none">
+    <ellipse cx="0" cy="0" rx="200" ry="55" stroke="#67E8F9" stroke-opacity="0.28" stroke-width="1.2"/>
+    <ellipse cx="0" cy="0" rx="150" ry="150" stroke="#8B5CF6" stroke-opacity="0.20" stroke-width="1" transform="rotate(20)"/>
+  </g>
+
+  <g transform="translate(1330, 240)">
+    <circle r="110" fill="url(#planetGlow)"/>
+    <circle r="72" fill="url(#planet)"/>
+    <!-- planet cloud band -->
+    <ellipse cx="0" cy="-15" rx="60" ry="6" fill="#67E8F9" opacity="0.25"/>
+    <ellipse cx="6" cy="10" rx="50" ry="5" fill="#67E8F9" opacity="0.2"/>
+    <ellipse cx="-6" cy="30" rx="40" ry="4" fill="#67E8F9" opacity="0.15"/>
+  </g>
+
+  <!-- Orbiting tech satellites -->
+  <g font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', monospace" font-size="11" font-weight="600">
+    <g transform="translate(1180, 170)">
+      <circle r="3.5" fill="#FCD34D"/>
+      <rect x="10" y="-10" width="52" height="20" rx="10" fill="#0B1026" stroke="#FCD34D" stroke-opacity="0.55"/>
+      <text x="36" y="4" fill="#FCD34D" text-anchor="middle">AWS</text>
+    </g>
+    <g transform="translate(1450, 170)">
+      <circle r="3.5" fill="#67E8F9"/>
+      <rect x="-62" y="-10" width="52" height="20" rx="10" fill="#0B1026" stroke="#67E8F9" stroke-opacity="0.55"/>
+      <text x="-36" y="4" fill="#67E8F9" text-anchor="middle">EKS</text>
+    </g>
+    <g transform="translate(1220, 320)">
+      <circle r="3.5" fill="#8B5CF6"/>
+      <rect x="10" y="-10" width="72" height="20" rx="10" fill="#0B1026" stroke="#8B5CF6" stroke-opacity="0.55"/>
+      <text x="46" y="4" fill="#A78BFA" text-anchor="middle">Kubernetes</text>
+    </g>
+    <g transform="translate(1470, 320)">
+      <circle r="3.5" fill="#E879F9"/>
+      <rect x="-72" y="-10" width="62" height="20" rx="10" fill="#0B1026" stroke="#E879F9" stroke-opacity="0.55"/>
+      <text x="-41" y="4" fill="#E879F9" text-anchor="middle">Terraform</text>
+    </g>
+  </g>
+
+  <!-- Wordmark (left side) -->
+  <g transform="translate(90, 130)" font-family="ui-monospace, 'JetBrains Mono', 'SF Mono', monospace">
+    <text x="0" y="0" font-size="13" fill="#67E8F9" letter-spacing="5">◆  &gt; whoami  ◆</text>
+    <text x="0" y="70" font-size="66" font-weight="700" fill="#F8FAFC" letter-spacing="-1">Kartikey Tripathi</text>
+    <text x="0" y="110" font-size="20" fill="#C4B5FD">AWS Cloud Engineer  →  DevOps Engineer</text>
+
+    <g transform="translate(0, 150)">
+      <text x="0" y="0" font-size="13" fill="#94A3B8">◦ Amazon Web Services · Containers Team</text>
+      <text x="0" y="22" font-size="13" fill="#94A3B8">◦ CKA track · pursuing Solutions Architect Professional</text>
+      <text x="0" y="44" font-size="13" fill="#94A3B8">◦ Bengaluru, IN · kartikeytripathi.in</text>
+    </g>
+  </g>
+
+  <!-- Shooting star -->
+  <g transform="translate(650, 60) rotate(18)" opacity="0.9">
+    <line x1="0" y1="0" x2="80" y2="0" stroke="#67E8F9" stroke-width="1.5" stroke-linecap="round"/>
+    <circle cx="80" cy="0" r="2.5" fill="#67E8F9"/>
+  </g>
+</svg>

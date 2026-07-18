@@ -1,106 +1,136 @@
 <div align="center">
 
-```
-██╗░░██╗░█████╗░██████╗░████████╗██╗██╗░░██╗███████╗██╗░░░██╗
-██║░██╔╝██╔══██╗██╔══██╗╚══██╔══╝██║██║░██╔╝██╔════╝╚██╗░██╔╝
-█████═╝░███████║██████╔╝░░░██║░░░██║█████═╝░█████╗░░░╚████╔╝░
-██╔═██╗░██╔══██║██╔══██╗░░░██║░░░██║██╔═██╗░██╔══╝░░░░╚██╔╝░░
-██║░╚██╗██║░░██║██║░░██║░░░██║░░░██║██║░╚██╗███████╗░░░██║░░░
-╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚═╝░░░╚═╝░░╚═╝╚═╝░░╚═╝╚══════╝░░░╚═╝░░░
-```
+<img src="./assets/banner.svg" alt="Kartikey Tripathi — mission log" width="100%"/>
 
-### `> kartikeytripathi` &nbsp;|&nbsp; AWS Cloud Engineer → DevOps Engineer
+<br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=AWS+Cloud+Engineer+%7C+RDS+%26+MySQL+Specialist;EKS+%2F+Kubernetes+Enthusiast;CKA+Certification+in+Progress;Transitioning+to+DevOps+Engineering)](https://git.io/typing-svg)
+### ✦ *AWS Cloud Engineer transitioning into DevOps — publishing what I learn along the way* ✦
 
-🌐 **[kartikeytripathi.in](https://www.kartikeytripathi.in/)**
+[![Portfolio](https://img.shields.io/badge/◆_Live-kartikeytripathi.in-FCD34D?style=for-the-badge&labelColor=0B1026)](https://www.kartikeytripathi.in)
+[![Blog](https://img.shields.io/badge/◇_Blog-blogs.kartikeytripathi.in-67E8F9?style=for-the-badge&labelColor=0B1026)](https://blogs.kartikeytripathi.in)
+[![LinkedIn](https://img.shields.io/badge/◉_LinkedIn-connect-A78BFA?style=for-the-badge&labelColor=0B1026)](https://www.linkedin.com/in/kartikeytripathi)
 
 </div>
 
 ---
 
-## `$ whoami`
+## 🪐  Ident
 
 ```yaml
-name        : Kartikey Tripathi
+handle      : kartikeytripathi
 alias       : LordKazeKage
 role        : AWS Cloud Engineer — Containers Team
-focus       : Kubernetes • EKS • CI/CD • Infrastructure as Code
-currently   : CKA Certification Track + AWS Solutions Architect Professional
-website     : https://www.kartikeytripathi.in/
-interests   : Netflix, Video Games, Breaking Production (in a lab, obviously)
+trajectory  : Cloud Support  →  DevOps  →  Platform Engineering
+focus       : Kubernetes · EKS · IaC · CI/CD · Observability
+currently   : CKA · AWS Solutions Architect Professional
+station     : Bengaluru, IN
+off-duty    : Netflix · video games · breaking prod (in labs, obviously)
 ```
 
 ---
 
-## `$ cat skills.json`
+## 🛰  The constellation
 
-### ☁️ Cloud & AWS
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Amazon RDS](https://img.shields.io/badge/Amazon%20RDS-527FFF?style=for-the-badge&logo=amazon-rds&logoColor=white)
-![Amazon EKS](https://img.shields.io/badge/Amazon%20EKS-FF9900?style=for-the-badge&logo=amazon-eks&logoColor=white)
-![Amazon ECR](https://img.shields.io/badge/Amazon%20ECR-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+Five properties in orbit around a shared brand and shared writing voice.
 
-### 🐳 Containers & Orchestration
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/Argo%20CD-1e0477?style=for-the-badge&logo=argo&logoColor=white)
-
-### 🛠️ DevOps & IaC
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Amazon Aurora](https://img.shields.io/badge/Aurora-527FFF?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-### 💻 Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-
----
-
-## `$ ls -la certifications/`
-
-| Certification | Issuer | Status |
+| ✦ | Satellite | Purpose |
 |---|---|---|
-| 🎯 **CKA — Certified Kubernetes Administrator** | CNCF | `[IN PROGRESS]` |
+| ◆ | **[Portfolio](https://www.kartikeytripathi.in)** | Hub · bio · work · projects · certs · contribution graph |
+| ◇ | **[Blog](https://blogs.kartikeytripathi.in)** | Long-form — EKS internals, ADOT, Karpenter, Lambda MicroVMs |
+| ◈ | **[AWS Diagrams](https://diagrams.kartikeytripathi.in)** | Interactive architecture diagrams — searchable, filterable |
+| ⎈ | **[KubeForge](https://kubeforge.kartikeytripathi.in)** | 38-lab hands-on K8s + EKS platform for CKA / DevOps prep |
+| 🔍 | **[QuizLens](https://github.com/kartikeytripathi/quizlens)** | Chrome extension: highlight a practice question → get the full breakdown |
 
 ---
 
-## `$ top` &nbsp;— GitHub Stats
+## ⚙  Ship systems
+
+<div align="center">
+
+**☁️  Cloud & AWS**
+
+![AWS](https://img.shields.io/badge/AWS-FCD34D?style=for-the-badge&labelColor=0B1026&logo=amazonaws&logoColor=FCD34D)
+![RDS](https://img.shields.io/badge/RDS-67E8F9?style=for-the-badge&labelColor=0B1026&logo=amazonrds&logoColor=67E8F9)
+![EKS](https://img.shields.io/badge/EKS-A78BFA?style=for-the-badge&labelColor=0B1026&logo=amazoneks&logoColor=A78BFA)
+![ECR](https://img.shields.io/badge/ECR-E879F9?style=for-the-badge&labelColor=0B1026&logo=amazonaws&logoColor=E879F9)
+![Aurora](https://img.shields.io/badge/Aurora-67E8F9?style=for-the-badge&labelColor=0B1026&logo=amazonaws&logoColor=67E8F9)
+
+**🐳  Containers & orchestration**
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-A78BFA?style=for-the-badge&labelColor=0B1026&logo=kubernetes&logoColor=A78BFA)
+![Docker](https://img.shields.io/badge/Docker-67E8F9?style=for-the-badge&labelColor=0B1026&logo=docker&logoColor=67E8F9)
+![Helm](https://img.shields.io/badge/Helm-C4B5FD?style=for-the-badge&labelColor=0B1026&logo=helm&logoColor=C4B5FD)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-E879F9?style=for-the-badge&labelColor=0B1026&logo=argo&logoColor=E879F9)
+![Karpenter](https://img.shields.io/badge/Karpenter-FCD34D?style=for-the-badge&labelColor=0B1026&logo=amazoneks&logoColor=FCD34D)
+
+**🛠  DevOps & IaC**
+
+![Terraform](https://img.shields.io/badge/Terraform-A78BFA?style=for-the-badge&labelColor=0B1026&logo=terraform&logoColor=A78BFA)
+![GitHub Actions](https://img.shields.io/badge/GH_Actions-C4B5FD?style=for-the-badge&labelColor=0B1026&logo=githubactions&logoColor=C4B5FD)
+![Ansible](https://img.shields.io/badge/Ansible-E879F9?style=for-the-badge&labelColor=0B1026&logo=ansible&logoColor=E879F9)
+![Linux](https://img.shields.io/badge/Linux-FCD34D?style=for-the-badge&labelColor=0B1026&logo=linux&logoColor=FCD34D)
+![Bash](https://img.shields.io/badge/Bash-67E8F9?style=for-the-badge&labelColor=0B1026&logo=gnubash&logoColor=67E8F9)
+
+**🗄  Data & languages**
+
+![Python](https://img.shields.io/badge/Python-FCD34D?style=for-the-badge&labelColor=0B1026&logo=python&logoColor=FCD34D)
+![TypeScript](https://img.shields.io/badge/TypeScript-67E8F9?style=for-the-badge&labelColor=0B1026&logo=typescript&logoColor=67E8F9)
+![MySQL](https://img.shields.io/badge/MySQL-A78BFA?style=for-the-badge&labelColor=0B1026&logo=mysql&logoColor=A78BFA)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-C4B5FD?style=for-the-badge&labelColor=0B1026&logo=postgresql&logoColor=C4B5FD)
+
+</div>
+
+---
+
+## 🎖  Flight record — certifications
+
+| ✦ | Certification | Issuer | Status |
+|---|---|---|---|
+| ☁ | AWS Certified Solutions Architect — Associate | Amazon Web Services | `[EARNED · 2024]` |
+| 🤖 | AWS Certified AI Practitioner | Amazon Web Services | `[EARNED · 2024]` |
+| 🌩 | AWS Certified Cloud Practitioner | Amazon Web Services | `[EARNED · 2022]` |
+| 🧠 | Foundations of AI Agents | BeSA | `[EARNED · 2026]` |
+| ⎈ | CKA — Certified Kubernetes Administrator | CNCF | `[IN PROGRESS]` |
+| 🏛 | AWS Solutions Architect Professional | Amazon Web Services | `[IN PROGRESS]` |
+
+---
+
+## 📡  Telemetry
 
 <div align="center">
 
 <a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com/?user=kartikeytripathi&theme=matrix&hide_border=true&background=0d1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakNum=c9d1d9&currStreakLabel=00FF41&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=kartikeytripathi&theme=nord_dark&hide_border=true&background=0B1026&stroke=67E8F9&ring=A78BFA&fire=E879F9&currStreakNum=F8FAFC&currStreakLabel=A78BFA&sideNums=F8FAFC&sideLabels=C4B5FD&dates=94A3B8" alt="GitHub Streak" width="70%"/>
 </a>
 
-</div>
+<br/><br/>
 
----
-
-## `$ ping contact`
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-00FF41?style=for-the-badge&logo=firefox&logoColor=black)](https://www.kartikeytripathi.in/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartikeytripathi/)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kartikeytripathi)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikeytripathi&layout=compact&hide_border=true&bg_color=0B1026&title_color=A78BFA&text_color=C4B5FD&icon_color=67E8F9" alt="Top languages" width="45%"/>
 
 </div>
 
 ---
 
+## 📻  Signal
+
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/◆_Portfolio-kartikeytripathi.in-FCD34D?style=for-the-badge&labelColor=0B1026)](https://www.kartikeytripathi.in/)
+[![LinkedIn](https://img.shields.io/badge/◉_LinkedIn-connect-A78BFA?style=for-the-badge&labelColor=0B1026&logo=linkedin&logoColor=A78BFA)](https://www.linkedin.com/in/kartikeytripathi/)
+[![GitHub](https://img.shields.io/badge/◈_GitHub-follow-C4B5FD?style=for-the-badge&labelColor=0B1026&logo=github&logoColor=C4B5FD)](https://github.com/kartikeytripathi)
+
+<br/>
+
 ```
-> "In the cloud, we trust. In Kubernetes, we debug."
+✦   "In the cloud, we trust.  In Kubernetes, we debug."   ✦
 ```
 
-![Visitor Count](https://komarev.com/ghpvc/?username=kartikeytripathi&color=00ff41&style=flat-square&label=VISITORS)
+<br/>
+
+![Visitor Count](https://komarev.com/ghpvc/?username=kartikeytripathi&color=A78BFA&style=flat-square&label=VISITORS+FROM+EARTH)
+
+<br/>
+
+<sub>*mission log · v2026 · orbit stable*</sub>
 
 </div>
